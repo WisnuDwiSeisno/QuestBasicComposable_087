@@ -52,7 +52,7 @@ fun BasicCompose(modifier: Modifier = Modifier){
                 color = Color.Red,
             )
         )
-        Text(text = "1",
+        Text(text = "INI ADALAH HALAMAN LOGIN",
             fontSize = 25.sp,
             fontWeight = FontWeight.Bold)
 
