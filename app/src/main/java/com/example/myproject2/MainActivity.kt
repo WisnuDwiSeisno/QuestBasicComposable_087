@@ -77,7 +77,7 @@ fun BasicCompose(modifier: Modifier = Modifier){
 
         Text(text = "20220140087",
             fontFamily = FontFamily.Monospace,
-            )
+            fontSize = 20.sp)
     }
 }
 
