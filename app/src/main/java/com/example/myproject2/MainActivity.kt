@@ -56,7 +56,7 @@ fun BasicCompose(modifier: Modifier = Modifier){
             fontSize = 15.sp,
             fontWeight = FontWeight.Bold)
 
-        Image(painter = painterResource(id = R.drawable.logofifa),
+        Image(painter = painterResource(id = R.drawable.umylogo),
             contentDescription = null)
     }
 }
