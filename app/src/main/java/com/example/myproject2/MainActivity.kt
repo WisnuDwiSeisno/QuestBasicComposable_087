@@ -68,6 +68,8 @@ fun BasicCompose(modifier: Modifier = Modifier){
             fontSize = 15.sp,
             fontWeight = FontWeight.Bold,
             color = Color.Blue)
+
+        Text(text = "Wisnu Dwi Seisno")
     }
 }
 
