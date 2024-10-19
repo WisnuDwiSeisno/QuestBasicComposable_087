@@ -53,7 +53,7 @@ fun BasicCompose(modifier: Modifier = Modifier){
             )
         )
         Text(text = "INI ADALAH HALAMAN LOGIN",
-            fontSize = 25.sp,
+            fontSize = 15.sp,
             fontWeight = FontWeight.Bold)
 
         Image(painter = painterResource(id = R.drawable.logofifa),
