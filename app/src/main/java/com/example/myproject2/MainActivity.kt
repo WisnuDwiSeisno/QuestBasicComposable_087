@@ -79,6 +79,9 @@ fun BasicCompose(modifier: Modifier = Modifier){
             fontFamily = FontFamily.Monospace,
             fontSize = 20.sp,
             color = Color.Blue)
+
+        Image(painter = painterResource(id = R.drawable.fotodiri),
+            contentDescription = null)
     }
 }
 
