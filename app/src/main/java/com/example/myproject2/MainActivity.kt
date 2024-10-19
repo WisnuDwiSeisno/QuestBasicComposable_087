@@ -81,7 +81,9 @@ fun BasicCompose(modifier: Modifier = Modifier){
             color = Color.Blue)
 
         Image(painter = painterResource(id = R.drawable.fotodiri),
-            contentDescription = null)
+            contentDescription = null, modifier = Modifier
+                .padding(15.dp)
+                .size(350.dp))
     }
 }
 
