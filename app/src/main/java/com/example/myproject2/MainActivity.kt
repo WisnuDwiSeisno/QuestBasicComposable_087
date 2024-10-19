@@ -71,7 +71,8 @@ fun BasicCompose(modifier: Modifier = Modifier){
             color = Color.Blue)
 
         Text(text = "Wisnu Dwi Seisno",
-            fontFamily = FontFamily.Monospace)
+            fontFamily = FontFamily.Monospace,
+            fontSize = 16.sp)
     }
 }
 
