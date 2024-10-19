@@ -64,7 +64,8 @@ fun BasicCompose(modifier: Modifier = Modifier){
                 .padding(15.dp)
                 .size(250.dp))
 
-        Text(text = "Nama")
+        Text(text = "Nama",
+            fontSize = 15.sp,)
     }
 }
 
