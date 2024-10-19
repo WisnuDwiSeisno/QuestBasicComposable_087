@@ -61,7 +61,8 @@ fun BasicCompose(modifier: Modifier = Modifier){
 
         Image(painter = painterResource(id = R.drawable.umylogo),
             contentDescription = null, modifier = Modifier
-                .padding(15.dp))
+                .padding(15.dp)
+                .size(250.dp))
     }
 }
 
