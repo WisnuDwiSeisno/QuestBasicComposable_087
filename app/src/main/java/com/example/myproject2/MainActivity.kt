@@ -66,7 +66,8 @@ fun BasicCompose(modifier: Modifier = Modifier){
 
         Text(text = "Nama",
             fontSize = 15.sp,
-            fontWeight = FontWeight.Bold)
+            fontWeight = FontWeight.Bold,
+            color = Color.Blue)
     }
 }
 
